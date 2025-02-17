@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,baidu
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内DNS
+DOMAIN-SUFFIX,dns.he.net
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 IP-CIDR,219.146.1.66/32,no-resolve
