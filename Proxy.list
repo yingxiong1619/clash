@@ -4,7 +4,6 @@ IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,misskon.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
@@ -18,6 +17,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,misskon.com
 DOMAIN-SUFFIX,www.google.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,misskon.com
