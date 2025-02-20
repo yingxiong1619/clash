@@ -17,7 +17,13 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
-DOMAIN-SUFFIX,gmx.com
+DOMAIN-SUFFIX,support.gmx.com
+DOMAIN-SUFFIX,dl.gmx.com
+DOMAIN-SUFFIX,epimetheus.navigator-bs.gmx.com
+DOMAIN-SUFFIX,plus.gmx.com
+DOMAIN-SUFFIX,i0.gmx.com
+DOMAIN-SUFFIX,wa.gmx.com
+DOMAIN-SUFFIX,www.gmx.com
 DOMAIN-SUFFIX,misskon.com
 DOMAIN-SUFFIX,www.google.com
 DOMAIN-SUFFIX,duckduckgo.com
