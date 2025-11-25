@@ -6,7 +6,7 @@
 
 proxy-providers:
 
-  PolYun:
+  Paoluz:
     url: "机场订阅地址"  
     type: http
     interval: 86400
