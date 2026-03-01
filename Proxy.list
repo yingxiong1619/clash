@@ -38,7 +38,11 @@ DOMAIN-SUFFIX,www.icc2022.com
 # 其他网站
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
-# DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,xsijishe.net
+DOMAIN-SUFFIX,xsijishe.ink
+DOMAIN-SUFFIX,sjslt.cc
+DOMAIN-SUFFIX,sjs47.net
+DOMAIN-SUFFIX,sjs47.com
 DOMAIN-SUFFIX,stationery.sdi.com.tw
 DOMAIN-SUFFIX,35.wtf
 DOMAIN-SUFFIX,www.canva.com
