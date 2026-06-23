@@ -1,13 +1,13 @@
-  - DOMAIN-SUFFIX,app-cdn.clickup.com
-  - DOMAIN-SUFFIX,app.clickup.com
-  - DOMAIN-SUFFIX,attachments.clickup.com
-  - DOMAIN-SUFFIX,attachments2.clickup.com
-  - DOMAIN-SUFFIX,cu-prod-prod-us-west-2-2-coeditor.clickup.com
-  - DOMAIN-SUFFIX,frontdoor-prod-us-west-2-2.clickup.com
-  - DOMAIN-SUFFIX,frontdoor-search.clickup-prod.com
-  - DOMAIN-SUFFIX,id.app.clickup.com
-  - DOMAIN-SUFFIX,pages.clickup.com
-  - DOMAIN-SUFFIX,pal.p.clickup-attachments.com
-  - DOMAIN-SUFFIX,t100.p.clickup-attachments.com
-  - DOMAIN-SUFFIX,t2455998.p.clickup-attachments.com
-  - DOMAIN-KEYWORD,clickup
+DOMAIN-SUFFIX,app-cdn.clickup.com
+DOMAIN-SUFFIX,app.clickup.com
+DOMAIN-SUFFIX,attachments.clickup.com
+DOMAIN-SUFFIX,attachments2.clickup.com
+DOMAIN-SUFFIX,cu-prod-prod-us-west-2-2-coeditor.clickup.com
+DOMAIN-SUFFIX,frontdoor-prod-us-west-2-2.clickup.com
+DOMAIN-SUFFIX,frontdoor-search.clickup-prod.com
+DOMAIN-SUFFIX,id.app.clickup.com
+DOMAIN-SUFFIX,pages.clickup.com
+DOMAIN-SUFFIX,pal.p.clickup-attachments.com
+DOMAIN-SUFFIX,t100.p.clickup-attachments.com
+DOMAIN-SUFFIX,t2455998.p.clickup-attachments.com
+DOMAIN-KEYWORD,clickup
