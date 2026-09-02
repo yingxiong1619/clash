@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,bing.com
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
-# DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,openrouter.ai 
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,auth.grokipedia.com
 DOMAIN-SUFFIX,lmarena.ai
